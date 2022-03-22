@@ -1,21 +1,23 @@
 {
-    "name": "nordracula",
-    "displayName": "Nordracula",
-    "description": "A theme inspired in the VS Code Dracula theme but made with the Nord color palette",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nordracula",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nordracula-color-theme.json"
-            }
-        ]
-    }
+  "name": "nordracula",
+  "displayName": "Nordracula",
+  "description": "A theme inspired in the VS Code Dracula theme but made with the Nord color palette",
+  "version": "0.0.1",
+  "repository": "https://github.com/danjovich/nordracula-vscode-theme",
+  "publisher": "danjovich",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordracula-color-theme.json"
+      }
+    ]
+  }
 }
