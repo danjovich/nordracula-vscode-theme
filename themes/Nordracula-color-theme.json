@@ -3,53 +3,6 @@
 	"name": "Nordracula",
 	"author": "Daniel Jovchelevich Carvalho",
 	"semanticHighlighting": true,
-	// "nord": {
-	// 	"base": [
-	// 		"#2E3440",
-	// 		"#E5E9F0",
-	// 		"#44475A",
-	// 		"#4C566A",
-	// 		"#88C0D0",
-	// 		"#A3BE8C",
-	// 		"#D08770",
-	// 		"#B48EAD",
-	// 		"#5E81AC",
-	// 		"#BF616A",
-	// 		"#EBCB8B"
-	// 	],
-	// 	"ansi": [
-	// 		"#2E3440",
-	// 		"#BF616A",
-	// 		"#A3BE8C",
-	// 		"#EBCB8B",
-	// 		"#5E81AC",
-	// 		"#B48EAD",
-	// 		"#88C0D0",
-	// 		"#E5E9F0",
-	// 		"#4C566A",
-	// 		"#BF616A",
-	// 		"#A3BE8C",
-	// 		"#EBCB8B",
-	// 		"#5E81AC",
-	// 		"#B48EAD",
-	// 		"#88C0D0",
-	// 		"#ECEFF4"
-	// 	],
-	// 	"brightOther": [
-	// 		"#E9F284",
-	// 		"#8BE9FE"
-	// 	],
-	// 	"other": [
-	// 		"#44475A75",
-	// 		"#ECEFF41A",
-	// 		"#ECEFF4",
-	// 		"#44475A70",
-	// 		"#424450",
-	// 		"#3B4252",
-	// 		"#2E3440",
-	// 		"#191A21"
-	// 	]
-	// },
 	"colors": {
 		"terminal.background": "#2E3440",
 		"terminal.foreground": "#E5E9F0",
@@ -199,7 +152,7 @@
 		"editorOverviewRuler.incomingContentForeground": "#5E81AC",
 		"panel.background": "#2E3440",
 		"panel.border": "#5E81AC",
-		"panelTitle.activeBorder": "#B48EAD",
+		"panelTitle.activeBorder": "#5E81AC",
 		"panelTitle.activeForeground": "#E5E9F0",
 		"panelTitle.inactiveForeground": "#4C566A",
 		"statusBar.background": "#191A21",
