@@ -5,6 +5,6 @@ inspired in the syntax highlighting from Dracula Theme.
 
 ## Screenshot
 
-![screenshot](https://github.com/danjovich/nordracula-vscode-theme/blob/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/danjovich/nordracula-vscode-theme/master/screenshot.png))
 
 **Enjoy!**
